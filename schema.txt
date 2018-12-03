@@ -1,0 +1,2 @@
+Schema:
+empid, name, dob, join_date, join_designation
