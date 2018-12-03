@@ -1,0 +1,7 @@
+id,name,department,geo,role,sales,salary,gender
+1,BRADDY,Operations,US,VP,sales,low,M
+2,BIRDWELL,Finance,France,Senior Director,product_mng,medium,F
+3,BENT,Human Resources,China,Senior Director,product_mng,high,M
+4,BANK,Warehouse,Colombia,Director,sales,medium,F
+5,BANAS,Operations,Australia,Director,technical,high,F
+6,ARANGO,Human Resources,UK,Director,marketing,medium,F
