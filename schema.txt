@@ -1,2 +1,4 @@
 Schema:
 empid, name, dob, join_date, join_designation
+Updated Schema:
+id, name, department, geo, role, salary, gender
